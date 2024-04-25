@@ -24,6 +24,6 @@ The classification model is evaluated using metrics such as accuracy, tf-idf Sco
 6. Explore the results and model performance.
 
 ## Dependencies
-- Python 3.x
+- Python 
 - scikit-learn
 - NLTK
